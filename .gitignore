@@ -1,24 +1,10 @@
-# docs
-data/docs
+_posts/ideas
 
-# debug files
-playground/
+*.swp
 
-# Pycharm files
-.idea/
+/_site/
+/images/latex/
 
-# Python cache
-__pycache__
+bower_components
 
-# keys
-keys.txt
-github_webhook_keys.txt
-
-# Database
-./data/topaz.sqlite
-
-# Envs
-.topaz/
-
-# cache
-cached/
+.jekyll-metadata
