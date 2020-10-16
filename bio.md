@@ -1,3 +1,2 @@
-Brandon D. Amos is a Computer Science Ph.D. student at Carnegie Mellon University
-with research interests in machine learning, computer vision, and mobile computing.
-He obtained a B.S. in Computer Science from Virginia Tech in May 2014.
+Saketh Bachu is a Undergraduate student at Visvesvaraya National Institute of Technology, Nagpur, India
+with research interests in machine learning, computer vision, and entrepreneurship. He is a part of IvLabs, the Robotics and AI society if VNIT.
